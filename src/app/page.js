@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        <h1>Крутое приложение</h1>
         <h1>Исправленный заголовок</h1>
         <div>
           <a
